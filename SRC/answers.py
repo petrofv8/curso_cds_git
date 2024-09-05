@@ -51,7 +51,7 @@ def rod1_question_13():
 
     ax.set(
         title = 'Quantidade de Motos por tipo de dono',
-        xlabel = 'Tipo de Dono',
+        xlabel = 'Tipo de Dono',)
     return 
 
 
