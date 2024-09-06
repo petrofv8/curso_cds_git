@@ -1,7 +1,7 @@
-import panda as pd 
+import pandas as pd 
 import plotly.express as px 
 import streamlit as st 
-
+from extraction import load_data
 
 
 def rod1_question_09():
